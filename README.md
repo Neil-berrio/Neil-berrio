@@ -1,5 +1,8 @@
 <h1 align="center">Hi , I'm Neil Berrio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+
+
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
@@ -11,6 +14,8 @@
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Neil-berrio">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		</div>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 - 🔭 **I’m currently studying:** Systems Engineering (2nd Semester) at UNAC
   
