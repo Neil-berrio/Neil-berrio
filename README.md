@@ -16,8 +16,26 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 🔭 **I’m currently studying:** Systems Engineering (2nd Semester) at UNAC
+<h1>About Me! 😎</h1>
+
+  - 🔭 **I’m currently studying:** Systems Engineering (2nd Semester) at UNAC
   
-- 🌱 **I’m currently learning:** Java
+  - 🌱 **I’m currently learning:** Java
   
-- ⚡ **Fun fact:** I play volleyball 🏐
+  - ⚡ **Fun fact:** I play volleyball 🏐
+
+<br clear="all" />
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<br>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Neil-berrio&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Neil-berrio&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neil-berrio&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
